@@ -30,7 +30,4 @@ available, see the [github](https://github.com/FelipeKTrigo/restaurante_da_dona_
 
 - **João Victor Cardoso Correa - 181225** -
 
-- **Felipe Knoner Trigo - 182673** -
-- **Felipe Knoner Trigo - 182673** -
-    [
 
